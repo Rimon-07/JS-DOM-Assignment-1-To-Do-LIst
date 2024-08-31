@@ -8,7 +8,8 @@
     "vite": "^5.3.3"
   },
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build":"vite build"
   }
 }
 
